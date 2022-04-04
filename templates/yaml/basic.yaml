@@ -1,0 +1,9 @@
+name: Basic
+description: Basic YAML template to insert people
+people:
+  - name: John Doe
+    age: 30
+  - name: Jane Doe
+    age: 25
+  - name: Joe Smith
+    age: 32
